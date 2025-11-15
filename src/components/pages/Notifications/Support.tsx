@@ -45,7 +45,7 @@ const Support = () => {
             <input
               id="ticket-title"
               type="text"
-              className="rounded-[1.125rem] placeholder:text-sm placeholder:text-manatee mt-1.5 bg-aqua-haze px-4 py-3 text-right text-sm outline-none border border-athens-gray"
+              className="rounded-[1.125rem] h-14 placeholder:text-sm placeholder:text-manatee mt-1.5 bg-aqua-haze px-4 py-3 text-right text-sm outline-none border border-athens-gray"
             />
           </div>
 
